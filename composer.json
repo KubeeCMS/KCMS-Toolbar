@@ -1,0 +1,22 @@
+{
+  "name": "kubeecms/kcms-toolbar",
+  "description": "Adds a lot of useful (Super) Admin links to the Admin Bar...",
+  "keywords": ["kcms-toolbar", "toolbar", "adminbar", "multisite", "network", "administration", "menu", "kcms", "kubee"],
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/KubeeCMS/KCMS-Toolbar/",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "KubeeCMS",
+      "homepage": "https://github.com/KubeeCMS/KCMS-Toolbar/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/KubeeCMS/KCMS-Toolbar/issues/",
+    "source": "https://github.com/KubeeCMS/KCMS-Toolbar/"
+  },
+  "require": {
+    "php": ">=7.3"
+  }
+}

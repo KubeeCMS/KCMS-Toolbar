@@ -1,10 +1,10 @@
 # Multisite Toolbar Additions 
-**Contributors:** daveshine, deckerweb, wpautobahn, toolbarextras  
-**Donate link:** https://www.paypal.me/deckerweb  
+**Contributors:** Kubee  
+**Donate link:** https://www.paypal.me/kubee  
 **Tags:** toolbar, adminbar, admin bar, multisite, network, administration, menu, super admins, links, settings, deckerweb, ddwtoolbar  
-**Requires at least:** 3.6  
-**Tested up to:** 5.3  
-**Requires PHP:** 5.6  
+**Requires at least:** 5.1  
+**Tested up to:** 5.7  
+**Requires PHP:** 7.3  
 **Stable tag:** 2.0.1
 **License:** GPL-2.0-or-later  
 **License URI:** https://opensource.org/licenses/GPL-2.0  

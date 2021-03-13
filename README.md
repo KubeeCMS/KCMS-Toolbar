@@ -1,7 +1,7 @@
 # Multisite Toolbar Additions 
 **Contributors:** Kubee  
 **Donate link:** https://www.paypal.me/kubee  
-**Tags:** toolbar, adminbar, admin bar, multisite, network, administration, menu, super admins, links, settings, deckerweb, ddwtoolbar  
+**Tags:** toolbar, adminbar, admin bar, multisite, network, administration, menu, super admins, links, settings  
 **Requires at least:** 5.1  
 **Tested up to:** 5.7  
 **Requires PHP:** 7.3  

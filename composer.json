@@ -16,6 +16,11 @@
     "issues": "https://github.com/KubeeCMS/KCMS-Toolbar/issues/",
     "source": "https://github.com/KubeeCMS/KCMS-Toolbar/"
   },
+  "autoload": {
+    "psr-4": {
+      "Roots\\Bedrock\\": "/"
+    }
+  },
   "require": {
     "php": ">=7.3"
   }
